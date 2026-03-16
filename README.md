@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**2pacbiggie25/2pacbiggie25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Cristopher!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristopher%20Lanza-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-lanza-lozano-5851ab245/)
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-cristopherlanza-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cristopherlanza@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- I am a Computer Science Engineer from [Tegucigalpa, Honduras](https://youtu.be/TD_Hz3cx2tA), and currently im living in Madrid, Spain
+
+* Experience in Data Analytics
+
+ ## 🛠 Skills
+- Data Analyst: MySQL, SQL Server, Power BI, Python, Pandas, Numpy, Matplotlib
+- Antoher Skills : JavaScript, CSS, HTML, PHP
+
+### GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2pacbiggie25&theme=dracula)](https://git.io/streak-stats)
+
+[![Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2pacbiggie25&theme=dracula&show_icons=true)](https://github.com/2pacbiggie25)
