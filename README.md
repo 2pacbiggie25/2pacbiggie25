@@ -1,3 +1,4 @@
+<img width="808" height="199" alt="image" src="https://github.com/user-attachments/assets/d60107ff-9808-46f6-a983-968fd4a4028c" />
 
 # Hey, I'm Cristopher!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristopher%20Lanza-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-lanza-lozano-5851ab245/)
